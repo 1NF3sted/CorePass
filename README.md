@@ -1,6 +1,6 @@
 # CorePass by 1NF3STED
-Run any IPA by signed ldid with appinst
-Require appinst (from cydia.akemi.ai)
+Install any IPA without them crash after install
+Require appinst (from cydia.akemi.ai) / ldid (unc0ver)
 Work only with Unc0ver Jailbreak
 
 BEST SOLUTION:
