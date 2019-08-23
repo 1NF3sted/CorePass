@@ -2,7 +2,7 @@
 Install any IPA without them crash after install
 
 
-Require appinst (from cydia.akemi.ai) / ldid (unc0ver)
+Require appinst (from cydia.akemi.ai) / ldid (unc0ver) / unzip / zip
 
 
 Work only with Unc0ver Jailbreak
